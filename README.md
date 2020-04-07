@@ -1,5 +1,6 @@
-# The Cloud Ready Postit application
-A Cloud ready Post it app composed of
+# The Cloud Ready Post-it application
+A Cloud Ready Post-it app composed of
+
 - a Quarkus backend,
 - a Nodejs/Reactjs frontend
 - a Mongodb database
