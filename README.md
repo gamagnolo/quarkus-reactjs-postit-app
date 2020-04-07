@@ -4,6 +4,8 @@ A Cloud ready Post it app composed of
 - a Nodejs/Reactjs frontend
 - a Mongodb database
 
+and deployed on OpenShift 4.3.1 cluster through CodeReady Workspaces 2.0
+
 ![Application topology](topology.png "Application Topology")
 
 ![CodeReady Workspaces](codeready-workspaces-preview.png "CodeReady Workspaces")
