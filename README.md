@@ -13,4 +13,4 @@ and deployed on OpenShift 4.3.1 cluster through CodeReady Workspaces 2.0
 
 Let's create and start the workspace !!!
 
- [![Contribute](factory-contribute.svg)](https://codeready-codeready-workspaces.apps.ocp4.rhocplab.com/factory?url=https://github.com/gamagnolo/quarkus-reactjs-postit-app)
+ [![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-rome-d1bd.rome-d1bd.example.opentlc.com/factory?url=https://github.com/gamagnolo/quarkus-reactjs-postit-app)
